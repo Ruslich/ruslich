@@ -19,7 +19,7 @@ Feel free to reach out or connect with me:
 
 ---
 
-### Fun Fact 💥
+### 💥
 I believe learning never stops — whether it's a new language, a new model, or a new skill!
 
 ---
