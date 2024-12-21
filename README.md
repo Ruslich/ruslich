@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm excited to share a bit about myself and my jou
 
 ### About Me
 - 🎓 I'm currently a student at **Katholische Universität Eichstätt-Ingolstadt**, where I study **Data Science**, **Machine Learning**, and **Deep Learning**.
-- 🇩🇪 I’m also learning **German** as part of my personal development.
+- 📚 I’m also learning **German** as part of my personal development.
 - 💡 I enjoy solving complex problems and exploring the world of Artificial Intelligence.
 
 ### What I'm Up To
@@ -15,7 +15,8 @@ Welcome to my GitHub profile! I'm excited to share a bit about myself and my jou
 Feel free to reach out or connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/ruslan-tsibirov-6bb6a2262/) <!-- Add your LinkedIn profile link -->
-- rustsibirov@gmail.com<!-- Add your Gmail address -->
+- rustsibirov@gmail.com
+- [LinkTree](https://linktr.ee/rustsibirov)<!-- Add your Gmail address -->
 
 ---
 
